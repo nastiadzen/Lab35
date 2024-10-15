@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab35</string>
+    <string name="btnToSecond">Go to the next one</string>
+    <string name="text1">The only limit to our awareness of tomorrow is our doubts today.</string>
+    <string name="text2">Life is 10% of what happens to us and 90% of how we react to it.</string>
+    <string name="btnToThird">Go to the next one</string>
+    <string name="btnToFirst">Return to the first</string>
+    <string name="text3">Success is not final, failure is not fatal: what matters is the courage to continue.</string>
+    <string name="maintext">Quotes</string>
+
+</resources>
