@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab35</string>
+    <string name="btnToSecond">Перейти до наступної</string>
+    <string name="text1">Єдиною межею нашого усвідомлення завтрашнього дня є наші сьогоднішні сумніви.</string>
+    <string name="text2">Життя - це 10% того, що з нами відбувається, і 90% того, як ми на це реагуємо.</string>
+    <string name="btnToThird">Перейти до наступної</string>
+    <string name="btnToFirst">Повернутись до першої</string>
+    <string name="text3">Успіх не є остаточним, невдача не є фатальною: важлива сміливість продовжувати.</string>
+    <string name="maintext">Цитати</string>
+
+</resources>
